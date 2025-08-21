@@ -5,7 +5,7 @@
 
 # About Us
 At Gyronics, we are redefining how people interact with technology.
-Through gesture recognition, wearable innovation, and intelligent interfaces, we create tools to that make device control more intuitive and accessible.
+Through gesture recognition, wearable innovation, and intelligent interfaces, we create tools that make device control more intuitive and accessible.
 
 # Our Core Focus
 
