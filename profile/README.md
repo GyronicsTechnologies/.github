@@ -9,36 +9,37 @@ Through gesture recognition, wearable innovation, and intelligent interfaces, we
 
 # Our Core Focus
 
-- 🎯 Gesture-Control Wearables
+- Gesture-Control Wearables
 
-- 🧠 AI-Powered Motion Recognition
+- AI-Based Motion Recognition
 
-- 🔌 Platform APIs for Developers
+- Gyronics APIs/SDKs for Developers
 
-- 🤖 Embedded Systems & Hardware Integration
+- Embedded Systems & Hardware Integration
 
-- ♿ Inclusive Technology for All
+- Inclusive Technology for All
 
 # Featured Projects
 
 ## GRWD Open Database consisting of 10 IMU Based Gestures
 
-# 🤝 Let's Build the Future Together
+# Let's Build the Future Together
 We are always looking to collaborate with:
 
-- Developers 🚀
+- Developers
 
-- Researchers 🔬
+- Researchers
 
-- Accessibility Champions ♿
+- Accessibility Champions
 
-- Open Source Communities 🌍
+- Open Source Communities
 
-Got an idea? Let's make it real. Contact Us!
 
-# 🌍 Our Mission
-"To make technology an extension of natural human movement — intuitive, accessible, and empowering for all."
+# Our Mission
+"To make control of technology an extension of natural human movement — intuitive, accessible, and empowering for all."
+#
+Feel free to contact us!
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer&text=Intuitive%20Control%20For%20All!&fontSize=25&fontColor=ffffff" alt="Footer Banner"/> </p>
 
-## #️⃣ Organization • Technology • Accessibility
+## Organization • Technology • Accessibility
