@@ -1,4 +1,5 @@
-![GyronicsLogoNameTransparentWhiteText](https://github.com/user-attachments/assets/b86b76c8-d18c-4369-a1f0-35dfc6a690e1)
+
+<img width="1200" height="371" alt="GyronicsLogo1200x371" src="https://github.com/user-attachments/assets/8b3837ce-5507-4b4a-86e0-4846a7e10d99" />
 
 
 <h1 align="center"> Welcome to Gyronics </h1> <p align="center"> Empowering human-computer interaction through motion and gesture. </p> <p align="center"> <a href="https://gyronics.com"><img src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=google-chrome" alt="Website"></a> <a href="https://linkedin.com/company/gyronics"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a href="mailto:info@gyronics.com"><img src="https://img.shields.io/badge/Email-Us-red?style=for-the-badge&logo=gmail" alt="Email"></a> </p>
